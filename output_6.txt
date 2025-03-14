@@ -1,0 +1,11 @@
+
+
+=== Nội dung từ src/Btap_IOStream/input6_2.txt ===
+Chào mừng bạn đến với IO Stream.
+
+=== Nội dung từ src/Btap_IOStream/input6_3.txt ===
+Đây là file 3.
+
+=== Nội dung từ src/Btap_IOStream/input6_1.txt ===
+Xin chào các bạn!
+

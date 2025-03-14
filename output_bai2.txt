@@ -1,0 +1,2 @@
+Viết một chương trình sử dụng BufferedReader để đọc dữ liệu từ bàn phím 
+và lưu vào file.
