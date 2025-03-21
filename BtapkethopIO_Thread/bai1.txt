@@ -1,0 +1,3 @@
+xin chào
+Đây là bài tập về Thread kết hợp với IO Stream.
+Đọc file từng dòng.

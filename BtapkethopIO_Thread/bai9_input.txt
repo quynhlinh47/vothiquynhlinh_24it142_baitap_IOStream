@@ -1,0 +1,3 @@
+Bài tập 9: Đếm ký tự trong file bằng Thread
+Yêu cầu: 
+Tạo Thread đếm số ký tự trong file và ghi kết quả vào file khác.

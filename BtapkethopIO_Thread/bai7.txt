@@ -1,0 +1,2 @@
+ Ghi dữ liệu từ bàn phím vào file bằng Thread
+Yêu cầu: Tạo Thread ghi dữ liệu người dùng nhập từ bàn phím vào file.
