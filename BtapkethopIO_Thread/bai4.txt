@@ -1,0 +1,4 @@
+Bài tập 4: Đọc và xử lý dữ liệu song song
+Yêu cầu: Tạo hai Thread: 
+một Thread đọc file, một Thread xử lý dữ liệu đọc được 
+(ví dụ: đếm số từ).

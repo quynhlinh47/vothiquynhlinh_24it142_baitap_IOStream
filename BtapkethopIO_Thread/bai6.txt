@@ -1,0 +1,3 @@
+Bài tập 6: Đọc file lớn với nhiều Thread
+Yêu cầu: Chia file lớn thành các phần và
+    dùng nhiều Thread để đọc song song
