@@ -1,0 +1,22 @@
+<books>
+    <book>
+        <title>Tên sách 1</title>
+        <author>Tác giả 1</author>
+        <year>2023</year>
+        <publisher>Nhà xuất bản A</publisher>
+        <pages>300</pages>
+        <genre>Văn học</genre>
+        <price>150000</price>
+        <isbn>978-3-16-148410-0</isbn>
+    </book>
+    <book>
+        <title>Tên sách 2</title>
+        <author>Tác giả 2</author>
+        <year>2022</year>
+        <publisher>Nhà xuất bản B</publisher>
+        <pages>200</pages>
+        <genre>Khoa học</genre>
+        <price>180000</price>
+        <isbn>878-3-16-148411-0</isbn>
+    </book>
+</books>
