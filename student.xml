@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+                    
+    
+    
+    
+    <student id="1">
+                                        
+        
+        
+        
+        <name>Hoa</name>
+                                        
+        
+        
+        
+        <age>18</age>
+                                        
+        
+        
+        
+        <major>IT</major>
+                                    
+    
+    
+    
+    </student>
+                
+    
+    
+    
+    
+    
+    <student id="2">
+                        
+        
+        <name>Dung</name>
+                        
+        
+        <age>19</age>
+                        
+        
+        <major>AI</major>
+                    
+    
+    </student>
+        
+
+</students>
